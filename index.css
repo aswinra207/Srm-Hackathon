@@ -1,0 +1,141 @@
+.command-header {
+  margin-bottom: 20px;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
+.main-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.bottom-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.map-card {
+  min-height: 450px;
+}
+
+.map-placeholder {
+  height: 250px;
+  background: #0f172a;
+  margin-top: 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.district-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.alert-box {
+  background: #0f172a;
+  padding: 12px;
+  border-left: 4px solid #00d4ff;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.camera-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
+.camera-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.hero-card {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.corridor {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  margin: 20px 0;
+}
+body {
+  margin: 0;
+  background: #030712;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #111827;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #1e293b;
+}
+
+.alert-box {
+  background: #0f172a;
+  padding: 12px;
+  border-left: 4px solid #00d4ff;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+body {
+  margin: 0;
+  background: #030712;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #111827;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #1e293b;
+}
+.alert-box {
+  background: #0f172a;
+  padding: 12px;
+  border-left: 4px solid #00d4ff;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+body {
+  margin: 0;
+  background: #030712;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #111827;
+  padding: 20px;
+  border-radius: 12px;
+  border: 1px solid #1e293b;
+  margin-bottom: 20px;
+}
+
+.alert-box {
+  background: #0f172a;
+  padding: 12px;
+  border-left: 4px solid #00d4ff;
+  margin-top: 10px;
+  border-radius: 8px;
+}
